@@ -1,0 +1,1 @@
+CustomerName|Product|Quantity|Bill|Address|DeliveryCharges|Distance

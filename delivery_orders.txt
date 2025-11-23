@@ -1,0 +1,3 @@
+CustomerName|Product|Quantity|Bill|Address|DeliveryCharges|Distance
+Prakhar|Panasonic Lumix G10|5|375200|Kolkata|200|10
+Prakhar|Sony FX30          |1|45360|Lucknow|60|3
