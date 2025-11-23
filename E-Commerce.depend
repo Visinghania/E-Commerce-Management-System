@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1758476167 source:c:\users\vitth\desktop\e-commerce\main.cpp
-	<iostream>
-	<stdlib.h>
-	<bits/stdc++.h>
-	<string>
-
